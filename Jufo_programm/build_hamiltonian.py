@@ -2,6 +2,8 @@ from quspin.operators import hamiltonian
 import quspin.basis as qb
 import math
 
+# hi hi test #
+
 
 def build(L, N_u, N_d, U=math.sqrt(2), J=1.0, basis_back=False):
     #########################################################################
