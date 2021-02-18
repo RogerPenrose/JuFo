@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T09:04:32.139Z" agent="5.0 (X11)" etag="quThyNAuoVwPGltJV-lc" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-18T09:05:12.790Z" agent="5.0 (X11)" etag="3AbQtPpDBeZGS34z3J9-" version="14.3.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1673" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
             <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N6XBH8qFe-4Bi86oJnUj-24" value="&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;Akzeptieren wenn&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;Wahrsch. &lt;i&gt;p&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CC0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="N6XBH8qFe-4Bi86oJnUj-24" value="&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;Akzeptieren mit&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;Wahrsch. &lt;i&gt;p&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CC0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="690" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N6XBH8qFe-4Bi86oJnUj-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N6XBH8qFe-4Bi86oJnUj-28" target="N6XBH8qFe-4Bi86oJnUj-32">
